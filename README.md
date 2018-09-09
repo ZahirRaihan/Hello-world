@@ -1,2 +1,5 @@
 # Hello-world
-Just a repository.
+Hello everyone,
+
+
+I am Zahir. I am learning Python3. I am just a beginner.
